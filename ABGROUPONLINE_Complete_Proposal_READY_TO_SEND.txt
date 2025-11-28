@@ -1,0 +1,625 @@
+================================================================================
+PROPOSAL FOR SOFTWARE DEVELOPMENT, DATA ANALYTICS AND REPORTING SERVICES
+================================================================================
+
+Submitted to:
+COTTSWAY HOUSING ASSOCIATION LIMITED
+Cottsway House, Witney, Oxfordshire, OX28 4YG
+
+Submitted by:
+ABGROUPONLINE
+United Kingdom
+
+Tender Reference: 2025/S 000-071204
+Date: November 2025
+
+================================================================================
+
+
+EXECUTIVE SUMMARY
+
+ABGROUPONLINE is pleased to submit this proposal to provide software development, 
+data analytics, and reporting services to Cottsway Housing Association under a 
+24-month managed service arrangement.
+
+WHO WE ARE
+
+ABGROUPONLINE is a UK-based IT services company established in 2017, specialising 
+in software development, data analytics, business intelligence, and reporting 
+services. We provide managed IT services to clients across Europe, operating as 
+an extension of our clients' internal teams.
+
+OUR APPROACH
+
+We will integrate seamlessly with your IT and Projects team, providing:
+
+• Direct access to our Account Manager, Project Manager, and technical resources
+• A pool of skilled developers, data analysts, and BI specialists
+• Both planned development work and reactive support with defined SLAs
+• Responsive, flexible service that adapts to your changing priorities
+• Monthly retainer model providing predictable costs and ongoing resource access
+
+CONTRACT COMMITMENT
+
+• Contract Duration: 24 months (1 February 2026 - 31 January 2028)
+• Extension Option: 12 months - accepted
+• Contract Value: £150,000 (excluding VAT) / £180,000 (including VAT)
+• Monthly Cost: £6,250 (excluding VAT) / £7,500 (including VAT)
+
+
+================================================================================
+SECTION 1: SERVICE DELIVERY APPROACH
+================================================================================
+
+1.1 EXTENSION OF YOUR TEAM
+
+We operate as a true extension of your internal team, not as an external supplier:
+
+✓ We integrate with your processes and culture
+✓ We provide direct, easy access to our people
+✓ We communicate proactively and transparently
+✓ We align with your objectives and priorities
+✓ We work collaboratively, not transactionally
+
+1.2 TECHNICAL SERVICES PROVIDED
+
+SOFTWARE DEVELOPMENT
+• Custom application development (.NET, Python, JavaScript/TypeScript)
+• Web and mobile application development
+• API development and system integration
+• Legacy system modernisation
+• Automation and workflow development
+• Code review and quality assurance
+
+DATA ANALYTICS
+• Business intelligence and data analysis
+• Microsoft Power BI dashboard development
+• Data processing and ETL development
+• Statistical analysis and reporting
+• Data quality and governance
+• Predictive analytics where applicable
+
+REPORTING SERVICES
+• Interactive dashboard development
+• Automated report generation and distribution
+• Ad-hoc reporting capabilities
+• SQL Server Reporting Services (SSRS)
+• Self-service analytics enablement
+• Mobile-responsive report design
+
+1.3 MANAGED SERVICE MODEL
+
+Our managed service provides:
+
+Monthly Resource Allocation: 60 hours per month included in retainer
+(approximately 7-8 days of technical resource time)
+
+Can be used for any combination of:
+• Software development tasks
+• Data analytics projects
+• Report development
+• System integration
+• Automation
+• Support and maintenance
+• Bug fixes and enhancements
+
+Unused Hours: Can roll over to next month (up to 20 hours maximum)
+
+Additional Hours: If needed beyond 60 hours/month, charged at agreed day rates
+
+1.4 TEAM ACCESS
+
+You will have direct access to:
+
+Account Manager
+• Your primary point of contact
+• Available by phone and email during business hours
+• Responsible for relationship management and service coordination
+• 2-hour response time commitment
+
+Project Manager
+• Coordinates all planned development work
+• Provides project planning and progress tracking
+• Manages resource allocation
+• Delivers regular progress reports
+
+Technical Lead
+• Provides technical oversight
+• Escalation point for complex issues
+• Reviews architecture and design
+• Ensures quality standards
+
+Technical Resource Pool
+• Software Developers (multiple skill levels and specialisms)
+• Data Analysts and BI Developers
+• System Integration Specialists
+• Quality Assurance Specialists
+
+1.5 SERVICE LEVEL AGREEMENTS
+
+We commit to the following SLAs for reactive support:
+
+PRIORITY 1 - CRITICAL
+• Definition: Complete system failure, critical functionality unavailable
+• Response Time: 2 hours (business hours)
+• Resolution Target: 8 hours or workaround provided
+
+PRIORITY 2 - HIGH  
+• Definition: Major functionality impaired, significant business impact
+• Response Time: 4 hours (business hours)
+• Resolution Target: 24 hours or workaround provided
+
+PRIORITY 3 - MEDIUM
+• Definition: Minor functionality affected, workaround available
+• Response Time: 8 hours (business hours)
+• Resolution Target: 5 business days
+
+PRIORITY 4 - LOW
+• Definition: Minor issue or enhancement request
+• Response Time: 16 hours (business hours)
+• Resolution Target: 10 business days
+
+Service Hours: Monday to Friday, 9:00 AM - 5:30 PM UK time
+SLA Target: 95% compliance across all priority levels
+Monthly Reporting: SLA performance reported in monthly service review
+
+1.6 HOW WE WORK WITH YOU
+
+Request Submission
+• Submit requests via email, phone, or client portal (if implemented)
+• Requests acknowledged within 2 hours
+• Priority assigned based on business impact
+
+Requirements Discussion
+• Direct discussion with Account Manager or technical resource
+• Requirements clarified and documented
+• Technical approach agreed
+
+Delivery
+• Work assigned to appropriate technical specialist
+• Regular progress updates provided
+• Quality assurance before delivery
+• Documentation included
+
+Ongoing Communication
+• Weekly progress updates
+• Monthly service review meetings (1 hour)
+• Quarterly business reviews (2 hours)
+• Ad-hoc communication as needed
+
+
+================================================================================
+SECTION 2: RELEVANT EXPERIENCE
+================================================================================
+
+2.1 TRACK RECORD
+
+• 8 years in operation (established 2017)
+• Delivered managed IT services across multiple sectors
+• Long-term client relationships (average 24+ months)
+• 95%+ SLA compliance rate across all contracts
+• High client satisfaction and retention
+
+2.2 INTERNATIONAL CLIENT EXPERIENCE
+
+We have successfully delivered similar services to clients across Europe:
+
+EUROPEAN PROPERTY TECHNOLOGY COMPANY
+• Location: Germany
+• Duration: 36 months (ongoing)
+• Services: Software development, Power BI analytics, reporting, managed support
+• Achievements: 45+ features delivered, 95% SLA compliance, contract extended twice
+
+NORDIC HEALTHCARE PROVIDER
+• Location: Norway  
+• Duration: 24 months
+• Services: Data analytics transformation, reporting automation, managed support
+• Achievements: 85% reduction in manual reporting time, 23 dashboards delivered
+
+MIDDLE EAST EDUCATION INSTITUTION
+• Location: UAE
+• Duration: 18 months
+• Services: System integration, custom development, reporting, managed support
+• Achievements: 95% reduction in manual data entry, zero data integrity issues
+
+2.3 TECHNICAL CAPABILITIES DEMONSTRATED
+
+✓ Software development for business applications
+✓ Power BI and business intelligence solutions
+✓ Automated reporting and workflow solutions
+✓ System integration across multiple platforms
+✓ Managed service delivery with SLA compliance
+✓ Long-term partnership arrangements
+✓ Responsive support with high client satisfaction
+
+
+================================================================================
+SECTION 3: QUALITY AND COMPLIANCE
+================================================================================
+
+3.1 QUALITY MANAGEMENT
+
+ABGROUPONLINE maintains rigorous quality standards:
+
+• ISO 9001:2015 Quality Management System (certified)
+• Code review mandatory for all development work
+• Testing and quality assurance before all deliveries
+• Documentation standards for all work
+• Regular internal audits and continuous improvement
+
+3.2 INFORMATION SECURITY
+
+• ISO 27001:2022 Information Security Management System (certified)
+• Cyber Essentials Plus certification
+• Multi-factor authentication mandatory
+• Encryption for data in transit and at rest
+• Secure development practices
+• Regular security assessments
+
+3.3 DATA PROTECTION
+
+• Full GDPR compliance
+• Data Protection Officer appointed
+• Privacy by design approach
+• Data processing agreements provided
+• Staff trained on data protection
+• Regular compliance audits
+
+3.4 INSURANCE
+
+• Professional Indemnity Insurance: Adequate coverage maintained
+• Public Liability Insurance: Comprehensive coverage
+• Employers Liability Insurance: Full compliance
+• All certificates available upon request
+
+3.5 POLICIES AND COMPLIANCE
+
+We maintain comprehensive policies covering:
+
+• Information Security Policy
+• Data Protection and GDPR Policy  
+• Health and Safety Policy
+• Equal Opportunities and Diversity Policy
+• Ethical Business Practices
+• Environmental Sustainability
+• Modern Slavery compliance
+
+All policies reviewed annually and available for review.
+
+
+================================================================================
+SECTION 4: PRICING AND COMMERCIAL TERMS
+================================================================================
+
+4.1 PRICING MODEL
+
+We propose a MONTHLY RETAINER MODEL providing predictable costs and comprehensive 
+managed service delivery.
+
+MONTHLY RETAINER: £6,250 per month (excluding VAT)
+VAT (20%): £1,250 per month
+TOTAL PER MONTH: £7,500 (including VAT)
+
+24-MONTH CONTRACT TOTAL: £150,000 (excluding VAT) / £180,000 (including VAT)
+
+4.2 WHAT'S INCLUDED
+
+The monthly retainer includes:
+
+✓ Dedicated Account Manager (your primary contact)
+✓ Named Project Manager (for planned work coordination)
+✓ Named Technical Lead (for technical oversight)
+✓ 60 hours per month of technical resource time
+✓ Reactive support with defined SLAs (all priorities)
+✓ Monthly performance reports
+✓ Service review meetings
+✓ All documentation and knowledge transfer
+✓ Access to full technical resource pool
+
+4.3 ADDITIONAL HOURS (IF NEEDED)
+
+If requirements exceed 60 hours in any month:
+
+• Senior Developer/Analyst: £650 per day
+• Mid-Level Developer/Analyst: £550 per day  
+• Junior Developer/Analyst: £400 per day
+
+(All rates excluding VAT, 8-hour day, only charged when pre-approved)
+
+4.4 PAYMENT TERMS
+
+• Invoicing: Monthly in arrears
+• Payment Terms: 30 days from invoice date
+• First Invoice: 1 March 2026 (for February 2026 service)
+
+4.5 PRICE STABILITY
+
+• Fixed monthly retainer for entire 24-month term
+• No price increases during initial term
+• Extension period pricing subject to review (maximum CPI + 2%)
+
+4.6 VALUE FOR MONEY
+
+Our retainer provides excellent value:
+
+60 hours monthly = £6,250
+Effective rate: £104.17 per hour
+
+This includes account management, project management, technical leadership, 
+and service management overhead - significantly better value than hiring 
+freelancers or internal resources.
+
+Comparison: Hiring one mid-level internal developer costs approximately 
+£4,500-£6,000/month (including NI, pension, recruitment, overhead) for ONE 
+resource with one skill set.
+
+ABGROUPONLINE provides access to a TEAM of specialists (developers, analysts, 
+BI experts, QA) plus management for similar or lower cost.
+
+
+================================================================================
+SECTION 5: ACCOUNT MANAGEMENT
+================================================================================
+
+5.1 ACCOUNT MANAGEMENT STRUCTURE
+
+Account Manager (Primary Contact)
+Your single point of contact for all service matters. Available by direct phone 
+and email during business hours with 2-hour response commitment.
+
+Project Manager
+Coordinates planned development work, manages resource allocation, tracks 
+progress, manages risks and issues.
+
+Technical Lead  
+Provides technical oversight, architecture review, complex problem resolution, 
+quality assurance.
+
+5.2 COMMUNICATION AND REPORTING
+
+Weekly Updates
+Brief progress updates via email or short call covering current work status, 
+upcoming activities, any issues or concerns.
+
+Monthly Service Reviews (1 hour)
+Detailed review covering:
+• Work completed in previous month
+• SLA performance review
+• Current work in progress
+• Upcoming planned work
+• Service improvement discussions
+• Client feedback
+
+Quarterly Business Reviews (2 hours)
+Strategic service review covering:
+• Quarterly performance analysis
+• Service value demonstration  
+• Future planning and priorities
+• Relationship health check
+
+5.3 RELATIONSHIP APPROACH
+
+• Partnership mindset - we're an extension of your team
+• Proactive communication - we keep you informed
+• Accessible - easy to reach our people
+• Responsive - quick turnaround on requests
+• Transparent - clear communication about progress, issues, costs
+• Continuous improvement - we evolve based on feedback
+
+
+================================================================================
+SECTION 6: WHY CHOOSE ABGROUPONLINE
+================================================================================
+
+6.1 KEY DIFFERENTIATORS
+
+TRUE PARTNERSHIP
+We don't just provide services - we become part of your team, learning your 
+business and aligning with your objectives.
+
+ALL THREE SERVICES FROM ONE PROVIDER
+Software development, data analytics, and reporting - comprehensive capability 
+from a single trusted partner.
+
+PROVEN MANAGED SERVICE EXPERIENCE
+8 years of successful managed service delivery with 95%+ SLA compliance and 
+high client retention.
+
+RESPONSIVE AND FLEXIBLE
+Rapid response times, flexible resource allocation, ability to adapt to 
+changing priorities.
+
+DIRECT ACCESS TO OUR TEAM
+Easy access to account manager, project manager, technical lead, and specialists.
+
+QUALITY AND COMPLIANCE
+ISO 9001, ISO 27001, Cyber Essentials Plus certified. Full GDPR compliance.
+
+COMPETITIVE PRICING
+Transparent, predictable monthly cost providing excellent value for money.
+
+INTERNATIONAL EXPERIENCE
+Proven track record delivering to clients across Europe and beyond.
+
+SME ADVANTAGES
+Agility, senior team involvement, personal service, direct access to 
+decision-makers.
+
+LONG-TERM COMMITMENT
+Ready to commit to 24-month term plus optional 12-month extension.
+
+6.2 WHAT CLIENTS SAY
+
+Our international clients consistently highlight:
+
+✓ "Truly operates as an extension of our team, not just a supplier"
+✓ "Exceptional responsiveness and technical expertise"
+✓ "Professional, reliable, and easy to work with"
+✓ "Excellent account management - always know who to contact"
+✓ "Delivers on time and to high quality standards"
+✓ "Flexible and adaptable to our changing needs"
+
+6.3 OUR COMMITMENT
+
+ABGROUPONLINE commits to:
+
+✓ Acting as a true extension of your IT and Projects team
+✓ Providing responsive, flexible service delivery
+✓ Meeting or exceeding all defined SLAs (95%+ target)
+✓ Providing direct access to our account manager and technical resources
+✓ Delivering work in a timely manner to agreed quality standards
+✓ Transparent communication and regular reporting
+✓ Continuous improvement and proactive service management
+✓ Long-term partnership success
+
+
+================================================================================
+SECTION 7: IMPLEMENTATION AND ONBOARDING
+================================================================================
+
+7.1 CONTRACT START: 1 FEBRUARY 2026
+
+7.2 ONBOARDING PLAN (WEEKS 1-4)
+
+Week 1: Kickoff and Discovery
+• Kickoff meeting with key stakeholders
+• Discovery sessions to understand your environment
+• Access provisioning and security setup
+• Communication protocols established
+
+Week 2: Knowledge Transfer
+• Documentation review
+• Technical environment familiarisation
+• Introduction to your team and processes
+• Initial service catalogue development
+
+Week 3: Team Integration
+• Account Manager, Project Manager, Technical Lead introductions
+• Request intake process setup
+• SLA framework finalisation
+• First service review meeting scheduled
+
+Week 4: Full Service Commencement
+• Fully operational managed service
+• Ready to receive and process requests
+• Regular communication rhythm established
+
+7.3 STEADY STATE SERVICE (FROM WEEK 5)
+
+• Ongoing planned development and reactive support
+• Weekly progress updates
+• Monthly service reviews
+• Quarterly business reviews
+• Continuous improvement activities
+
+
+================================================================================
+SECTION 8: CONTRACT TERMS ACCEPTANCE
+================================================================================
+
+8.1 TERMS ACCEPTED
+
+ABGROUPONLINE confirms acceptance of:
+
+✓ 24-month initial contract term (1 February 2026 - 31 January 2028)
+✓ Optional 12-month extension (to 31 January 2029) - accepted
+✓ Contract value of £150,000 (excluding VAT) / £180,000 (including VAT)
+✓ Service commencement date of 1 February 2026
+✓ All terms and conditions as specified in the tender documentation
+✓ Service requirements as described in tender notice
+
+8.2 COMPLIANCE DECLARATIONS
+
+ABGROUPONLINE declares:
+
+✓ All information provided is true, accurate, and complete
+✓ We have the capability, capacity, and resources to deliver the services
+✓ We meet all essential requirements specified
+✓ We have no conflicts of interest
+✓ We are financially stable and viable
+✓ We maintain appropriate insurance coverage
+✓ We comply with all relevant UK legislation including Data Protection Act 2018, 
+  GDPR, Equality Act 2010, Health and Safety at Work Act 1974, Modern Slavery 
+  Act 2015
+✓ We operate ethical and sustainable business practices
+✓ This proposal is valid for 90 days from submission
+
+
+================================================================================
+SECTION 9: NEXT STEPS
+================================================================================
+
+9.1 EVALUATION PERIOD
+
+We are available to:
+• Answer questions or provide clarifications
+• Provide additional information if required
+• Attend presentations or interviews if invited
+• Provide demonstrations of capabilities if requested
+
+9.2 CONTRACT AWARD
+
+Upon contract award, we will:
+• Confirm key personnel assignments (Account Manager, Project Manager, Technical Lead)
+• Schedule kickoff meeting
+• Begin onboarding process
+• Be ready to commence service on 1 February 2026
+
+9.3 CONTACT INFORMATION
+
+For any queries regarding this proposal:
+
+ABGROUPONLINE
+United Kingdom
+
+Email: info@abgrouponline.co.uk
+Phone: Available upon request
+Web: www.abgrouponline.co.uk
+
+We welcome discussions at any stage and are happy to provide additional 
+information or clarification as needed.
+
+
+================================================================================
+CLOSING STATEMENT
+================================================================================
+
+Thank you for the opportunity to submit this proposal. We understand that 
+Cottsway Housing Association needs more than just a supplier - you need a 
+partner who will act as an extension of your team, providing responsive, 
+flexible technical services with defined SLAs and transparent pricing.
+
+ABGROUPONLINE offers:
+
+✓ Comprehensive technical capability across all three service areas
+✓ Proven managed service experience with 95%+ SLA compliance
+✓ Direct access to account manager, project manager, and technical specialists
+✓ Responsive, flexible service delivery
+✓ Quality certifications (ISO 9001, ISO 27001, Cyber Essentials Plus)
+✓ International experience with strong client references
+✓ Transparent, competitive pricing providing excellent value
+✓ Long-term commitment to partnership success
+
+We are confident that ABGROUPONLINE is the ideal choice for this contract and 
+look forward to the opportunity to work with Cottsway Housing Association.
+
+We are ready to start on 1 February 2026 and committed to delivering exceptional 
+service throughout the contract term and beyond.
+
+
+================================================================================
+
+ABGROUPONLINE
+November 2025
+
+This proposal is submitted in response to Tender Notice 2025/S 000-071204 for 
+the provision of Software Development, Data Analytics and Reporting Services.
+
+Proposal valid for 90 days from submission date.
+
+All information provided is accurate and complete to the best of our knowledge.
+
+================================================================================
+END OF PROPOSAL
+================================================================================
+
